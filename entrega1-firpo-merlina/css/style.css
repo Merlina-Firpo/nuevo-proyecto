@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+h1{
+    color:cornflowerblue;
+}
+p{
+    color:deeppink;
+}
+/*
+#color-id{
+    color:red;
+}
+.color-parrafo{
+    color:lawngreen;
+}
+*/
